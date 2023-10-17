@@ -15,11 +15,10 @@
 - Github Pages
 - Botpress Cloud
 
-## 가이드라인
--
+## [가이드라인](https://github.com/SeungJin051/College_Helper_AIChatbot/blob/main/%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AF_%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE%E1%84%86%E1%85%B5_AI%E1%84%8E%E1%85%A2%E1%86%BA%E1%84%87%E1%85%A9%E1%86%BA_%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB.pdf "가이드라인")
 
-## 서비스 소개서
-- 
+
+## [서비스 소개서](https://github.com/SeungJin051/College_Helper_AIChatbot/blob/main/%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5-AI_Coding_Club.pdf "서비스 소개서")
 
 ---
 
@@ -76,3 +75,8 @@ Botpress의 지식베이스, 성격, 노드, 변수를 활용한다.<br>
 저는 학교에서 내려주는 교내_대학_생활_백서.pdf를 참고하여 정보를 가공했습니다. <br>
 하지만 저의 솔루션은 학습되지 않은 질문을 저장하고 추후에 우연한 업데이트가 가능하기에 사용자가 원하는 질문과 데이터 수집이 원할하다라고 생각하며 <br>
 자동으로 테이블에 기록이 되기 때문에 부담없이 AIChatbot과 상호작용이 가능할 것입니다.
+
+---
+
+<img width="581" alt="스크린샷 2023-10-17 오후 11 40 27" src="https://github.com/SeungJin051/College_Helper_AIChatbot/assets/83889135/da29b68b-f0b2-4a9d-9a9d-93d488258d0f">
+
